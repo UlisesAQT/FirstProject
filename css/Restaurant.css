@@ -1,0 +1,28 @@
+header {
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 2rem;
+    font-family: bungee;
+}
+.description{
+    font-size: 1.2rem; 
+    text-align: center;
+    border: solid gold 2px;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: rgb(255, 248, 220, 0.3);
+}
+#heading{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+body {
+background-image: linear-gradient(to bottom, rgb(255, 200, 100), rgb(255, 100, 50));
+}
+footer{
+    background-color: black;
+    margin-top: 2rem;
+    
+}
